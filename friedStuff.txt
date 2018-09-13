@@ -9,8 +9,6 @@ Fried Stuff:
 Directions:
 
 	Fry it!
-        More stuff
-        Make a conflict
-
-
+        More things!
+        
 
