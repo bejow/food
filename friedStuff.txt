@@ -6,13 +6,12 @@ Fried Stuff:
 	Ben is making more stuff
 More stuff
 	Salt
-	
 
 Directions:
 
 	Fry it!
-
         More stuff
+        Make a conflict
 
 
 
